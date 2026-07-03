@@ -21,8 +21,8 @@ git config --global user.email "aniketpatel68107@gmail.com"  <br>
 15. paste the copy link(repo link) --> close the terminal <br>
 16.create files, edit files, delete files into your folder <br>
 17.open terminal and give below cmd one by one: <br>
-git add .
-git commit -m "give a msg"
+git add .<br>
+git commit -m "give a msg" <br>
 git push origin main (main --> branch name {check your working brach first and after tha t write the branch name}) <br>
-18.repeat the cycle
+18.repeat the cycle <br>
 edit files --> git add . --> git commit -m "give a msg" --> git push origin main --> edit files <br>
