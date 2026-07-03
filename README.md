@@ -19,4 +19,4 @@ git config --global user.email "aniketpatel68107@gmail.com"  <br>
 14. open your vs code --> open terminal (check the menu click the option terminal --> new terminal)
 --> first check last words (ex. /news-website) <br>
 15. paste the copy link(repo link) --> close the terminal <br>
-16. create files,delete files into your
+
