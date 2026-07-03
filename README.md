@@ -19,10 +19,10 @@ git config --global user.email "aniketpatel68107@gmail.com"  <br>
 14. open your vs code --> open terminal (check the menu click the option terminal --> new terminal)
 --> first check last words (ex. /news-website) <br>
 15. paste the copy link(repo link) --> close the terminal <br>
-16.create files, edit files, delete files into your folder
-17.open terminal and give below cmd one by one:
+16.create files, edit files, delete files into your folder <br>
+17.open terminal and give below cmd one by one: <br>
 git add .
 git commit -m "give a msg"
-git push origin main (main --> branch name {check your working brach first and after tha t write the branch name})
+git push origin main (main --> branch name {check your working brach first and after tha t write the branch name}) <br>
 18.repeat the cycle
-edit files --> git add . --> git commit -m "give a msg" --> git push origin main --> edit files
+edit files --> git add . --> git commit -m "give a msg" --> git push origin main --> edit files <br>
